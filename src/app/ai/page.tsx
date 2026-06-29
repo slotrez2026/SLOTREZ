@@ -100,7 +100,7 @@ const AI_FEATURES = [
       from: "Review",
       fromBg: "#faeeda",
       fromColor: "#854f0b",
-      msg: "\"Best fade I've had, Marcus is the GOAT 🔥\"",
+      msg: "\"Best session I've had, James is incredible 🔥\"",
       reply: "Appreciate you Alex! Marcus takes real pride in every cut — can't wait to see you next time 💈",
       replyColor: "#7c3aed",
     },

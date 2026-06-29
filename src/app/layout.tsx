@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Slotrez — Book any service. Run any business.",
   description:
-    "Slotrez is the universal booking platform for barbers, trainers, cleaners, therapists, and more. Start free.",
+    "Slotrez is the universal booking platform for any service professional — trainers, therapists, cleaners, coaches, groomers, and more. Start free.",
   metadataBase: new URL("https://slotrez.com"),
   openGraph: {
     title: "Slotrez",

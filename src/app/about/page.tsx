@@ -28,7 +28,7 @@ const FEATURES = [
     icon: "✂️",
     bg: "#eff6ff",
     title: "Built for every industry",
-    desc: "Hair, fitness, home, wellness, pets — one platform, fully customized per industry. No one-size-fits-all nonsense.",
+    desc: "Fitness, wellness, home, beauty, pets, finance — one platform built for every service industry. No one-size-fits-all nonsense.",
   },
   {
     icon: "💳",
@@ -150,7 +150,7 @@ export default function AboutPage() {
           }}
         >
           Slotrez was built right here in Passaic, NJ — because we watched great
-          barbers, trainers, and service pros lose time, lose money, and lose
+          trainers, therapists, and service pros lose time, lose money, and lose
           clients to bad booking software. We decided to fix that.
         </p>
 
@@ -255,7 +255,7 @@ export default function AboutPage() {
             </h2>
             <p style={{ fontSize: 14, color: "#6b7280", lineHeight: 1.8 }}>
               The big booking platforms were built for hotels and airlines.
-              Slotrez is built for the barber who works 6 days a week, the
+              Slotrez is built for the trainer who works 6 days a week, the
               trainer who juggles 12 clients, the cleaner who runs a
               one-person operation. We give them the same power — without the
               complexity or the price.

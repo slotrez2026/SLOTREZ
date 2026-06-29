@@ -8,7 +8,7 @@
 import Link from "next/link";
 
 const CATEGORIES = [
-  { icon: "✂️", label: "Hair & beauty" },
+  { icon: "💅", label: "Beauty & grooming" },
   { icon: "🏋️", label: "Fitness"       },
   { icon: "🏠", label: "Home"          },
   { icon: "🧘", label: "Wellness"      },
@@ -39,7 +39,7 @@ export default function HomePage() {
           {" — one platform"}<br />{"for every service."}
         </h1>
         <p style={{ fontSize: 16, color: "#6b7280", lineHeight: 1.8, maxWidth: 480, margin: "0 auto 2.5rem" }}>
-          Barbers, trainers, cleaners, therapists and more. Run your entire business and let clients reserve in seconds.
+          Trainers, therapists, cleaners, coaches, groomers and more. Run your entire service business and accept bookings in seconds.
         </p>
         <div style={{ display: "flex", gap: 10, justifyContent: "center", flexWrap: "wrap" }}>
           <Link href="/browse" style={{ background: "#2563eb", color: "#fff", padding: "11px 26px", borderRadius: 8, fontSize: 14, fontWeight: 500, textDecoration: "none", display: "inline-block" }}>

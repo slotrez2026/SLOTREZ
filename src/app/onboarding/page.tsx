@@ -11,7 +11,7 @@ import Link from "next/link";
 import { supabase } from "@/lib/supabase";
 
 const STEPS = [
-  { id: "service",  icon: "✂️", title: "Add your first service",    desc: "e.g. Haircut — 45 min — $45",           action: "Add service"    },
+  { id: "service",  icon: "🛎️", title: "Add your first service",    desc: "e.g. Consultation — 60 min — $75",           action: "Add service"    },
   { id: "hours",    icon: "🕐", title: "Set your business hours",   desc: "When are you available to accept rezzes?", action: "Set hours"      },
   { id: "bank",     icon: "🏦", title: "Connect your bank account", desc: "Get paid via Stripe. Takes 2 minutes.",   action: "Connect bank"   },
   { id: "profile",  icon: "📸", title: "Complete your profile",     desc: "Add a photo, bio, and your location.",    action: "Edit profile"   },
